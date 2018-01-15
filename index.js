@@ -18,7 +18,7 @@ function sayHiToGrandma(string){
   }esleif ("HELLO"!= string){
     return "YES INDEED!"
   }elseif("I love you, Grandma."==string){
-    return 
+    return "I love you, too." 
   }
   
 }
